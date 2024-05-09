@@ -1,1 +1,2 @@
-# ML-Project
+# Machine learning project for CS 4774
+
