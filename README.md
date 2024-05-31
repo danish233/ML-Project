@@ -6,6 +6,8 @@ Our main objective for this project was to develop a machine learning model to a
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 ![image](https://github.com/danish233/ML-Project/assets/95320101/c9ee0362-4641-4c4d-9ebf-a47baadc1b4f)
 
 
